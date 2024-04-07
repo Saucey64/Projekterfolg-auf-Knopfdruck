@@ -1,0 +1,20 @@
+{
+  "uniaufgaben": [
+    {
+      "id": "4d71",
+      "difficulty": "hard",
+      "modul": "Webprogrammierung",
+      "text": "Mathe machen",
+      "tag": "23.03.2024",
+      "priority": true
+    },
+    {
+      "id": "f442",
+      "difficulty": "easy",
+      "modul": "Datenanalyse",
+      "text": "Für die Klausur vorbereiten",
+      "tag": "25.03.2024",
+      "priority": true
+    }
+  ]
+}
